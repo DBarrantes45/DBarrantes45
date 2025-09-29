@@ -85,8 +85,8 @@ I am actively working to bridge my infrastructure expertise with large-scale clo
 
 ### Let's Connect!
 
-<p>
-  Thank you for reaching out!
+  <p>
+  Feel free to reach out to me!
 </p>
 
 <p>
