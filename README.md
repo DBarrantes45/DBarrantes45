@@ -86,7 +86,7 @@ I am actively working to bridge my infrastructure expertise with large-scale clo
 ### Let's Connect!
 
 <p>
-  Feel free to reach out to discuss scalable solutions, cloud architecture, or software automation projects.
+  Thank you for reaching out!
 </p>
 
 <p>
